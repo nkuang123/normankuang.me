@@ -1,1 +1,3 @@
-# Norman's Personal Website
+---
+permalink: /index.html
+---
